@@ -1,0 +1,10 @@
+
+DemoApp\.WebBasic\.Tests/bin/\$\(buildConfiguration\)/netcoreapp2\.1/
+
+\.vs/DemoPrj/v15/
+
+DemoApp\.WebBasic\.Tests/obj/\$\(buildConfiguration\)/netcoreapp2\.1/
+
+DemoApp\.WebBasic\.Tests/obj/
+
+DemoApp\.WebBasic\.Tests/TestResults/
